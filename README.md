@@ -1,6 +1,6 @@
 # Enforcing Semantics-Aware Safety ControlBarrier Functions for Collision Avoidance via Bernstein Polynomial Approximations
 
-**Authors:** Siwon Jo, Yupeng Yang, Yanze Zhang, and Wenhao Luo
+**Authors:** Siwon J, Yupeng Yang, Yanze Zhang, and Wenhao Luo
 
 > **📢 Notice regarding Code and Paper Release:**  The full code and arXiv pre-print are currently withheld as the paper is under review at IROS 2026. 
 
