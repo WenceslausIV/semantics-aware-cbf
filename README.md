@@ -12,4 +12,5 @@ Our framework guarantees real-time collision avoidance for robot and obstacles w
 
 <img width="800" height="450" alt="IROS26_4471_VI_i7-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/08c0f82e-a798-4f76-83af-3cec882fecb7" />
 
-<img width="800" height="450" alt="IROS26_4471_VI_i7-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/842930da-9e01-4f97-b2e2-e14834c93906" />
+<img width="800" height="450" alt="IROS26_4471_VI_i7-ezgif com-video-to-gif-converter (2)" src="https://github.com/user-attachments/assets/5e8096a4-2fd7-45c2-a4e5-a0195b5ed276" />
+
